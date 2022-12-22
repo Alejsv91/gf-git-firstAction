@@ -7,4 +7,4 @@ jobs:
       - name: Print greed=ting
         run: echo "Hello world"
       - name: Print good by
-        run: Done bye!
+        run: echo "Done bye!"
